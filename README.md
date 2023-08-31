@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # ShopABag an Online-store for ladies and gents.
 😀✌
@@ -13,6 +13,3 @@
 
 ##### CART PAGE
 ![bagggs](https://user-images.githubusercontent.com/43039787/127785162-259b6cf0-5c5b-4803-a752-b0d6f330e25d.JPG)
-=======
-# BagOnline
->>>>>>> 23887e445c9d1d1a3e25518dfa090f1c9303cf57
